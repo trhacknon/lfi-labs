@@ -24,7 +24,7 @@ jose nazario @jnazario
 
 # inspired by 
 
-https://github.com/AUDI-1/sqli-labs
+https://github.com/trhacknon/sqli-labs
 
 # useful links
 
